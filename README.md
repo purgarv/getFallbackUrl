@@ -1,2 +1,2 @@
 # getFallbackUrl
-> get fallback url of reddit video
+> By clicking on the extension icon the fallback url of a reddit video gets copied to the clipboard.
